@@ -1,0 +1,15 @@
+
+body {
+    height: 100%;
+    background-image: url("rainbow1080.gif");
+    background-repeat: no-repeat;
+    
+   
+}
+#hi{
+    align-items: center;
+}
+.leading-relaxed text-lg {
+    color: black;
+}
+
