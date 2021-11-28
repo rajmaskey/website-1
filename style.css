@@ -13,3 +13,31 @@ body {
     color: black;
 }
 
+.twittersvg {
+  height: 34px;
+  width: 34px;
+  position: relative;
+  left: 80px;
+  
+
+  
+}
+.githubsvg {
+  height: 34px;
+  width: 34px;
+  position: relative;
+  right: 83px;
+  top: -33px;
+}
+
+.discordsvg {
+  height: 34px;
+  width: 34px;
+  position: relative;
+  top: -62px;
+}
+
+.buttontwitter {
+  
+}
+
