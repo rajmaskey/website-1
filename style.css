@@ -1,9 +1,13 @@
 
 body {
     height: 100%;
-    background-image: url("https://i.gifer.com/SBtN.gif");
+    background-image: url("login_background.jpg");
     background-repeat: no-repeat;
-    top: -80;
+    overflow-y: auto;
+    background-position: 50%;
+    overflow-x: hidden;
+    background-color: rgb(17 24 39);;
+
    
 }
 #hi{
@@ -19,7 +23,8 @@ body {
   width: 34px;
   position: relative;
   left: 80px;
-  top: 10px
+  top: 6px
+  
   
   
 }
@@ -30,13 +35,14 @@ body {
   position: relative;
   right: 83px;
   top: -30px;
+  
 }
 
 .discordsvg {
   height: 34px;
   width: 34px;
   position: relative;
-  top: -62px;
+  top: -71px;
   -webkit-user-drag: none;
   
 }

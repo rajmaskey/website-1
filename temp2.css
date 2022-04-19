@@ -1,0 +1,36 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v8.3.6,
+* Autoprefixer: v10.3.1
+* Browsers: last 4 version
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap');
+
+
+#mainstuff {
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+};
+
+#background-video {
+    padding: 0;
+    height: 10;
+    width: 10;
+};
+
+.contentho {
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    color: red;
+};
+
+.iconsho {
+    padding: 0;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+}
+
+
+.
